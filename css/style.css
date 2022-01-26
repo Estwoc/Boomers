@@ -1,0 +1,54 @@
+body
+{
+    background-image: url("../packs/background.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: -300px -160px;
+}
+
+.h1accueil
+{
+    color: rgb(148, 35, 35);
+}
+
+.gras
+{
+    font-weight: bold;
+}
+
+.clickhere
+{
+    color: rgb(108, 127, 202);
+}
+
+p
+{
+    font-size: 16px;
+    font-family: serif, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 32px;
+    font-family: serif, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 19px;
+    font-family: serif, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+em
+{
+    font-style: italic;
+}
+
+strong
+{
+    font-weight: bold;
+}
+
